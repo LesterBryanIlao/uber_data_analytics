@@ -1,0 +1,11 @@
+blocks: []
+callbacks: []
+data_integration: null
+description: null
+executor_count: 1
+extensions: {}
+name: floral wave
+type: python
+updated_at: '2023-05-12 12:45:25'
+uuid: floral_wave
+widgets: []
